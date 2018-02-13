@@ -6,6 +6,30 @@
 	],
 	"settings": {
 		"javascript.format.enable": false,
-		"javascript.validate.enable": false
-	}
+		"javascript.validate.enable": false,
+	"window.zoomLevel": 1,
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#388E3C",
+        "list.activeSelectionForeground": "#388E3C",
+        "list.inactiveSelectionForeground": "#388E3C",
+        "list.highlightForeground": "#388E3C",
+        "scrollbarSlider.activeBackground": "#388E3C50",
+        "editorSuggestWidget.highlightForeground": "#388E3C",
+        "textLink.foreground": "#388E3C",
+        "progressBar.background": "#388E3C",
+        "pickerGroup.foreground": "#388E3C",
+        "tab.activeBorder": "#388E3C"
+    },
+    "materialTheme.cache.workbench.settings": {
+        "accent": "Breaking Bad",
+        "themeColours": "Darker High Contrast"
+    },
+    "editor.renderIndentGuides": false,
+    "colorize.activate_variables_support_beta": true,
+
+  // Specified files extension that should be colorized
+  "colorize.files_extensions": [ ".css", ".js" ],
+	},
 }
